@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417874308899",
+    "project_id": "quran-bookmark",
+    "storage_bucket": "quran-bookmark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417874308899:android:40c2a8cd0a9f3a00f56696",
+        "android_client_info": {
+          "package_name": "com.bitbox.life.quran_marker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417874308899-fhf11219aa06mpf6h1ob1gf50fkssu8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwuSWIxP_6rT0xEp6_GijOR7EXbZUWwVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417874308899-fhf11219aa06mpf6h1ob1gf50fkssu8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
