@@ -30,6 +30,7 @@ ThemeData getTheme() {
       ),
       headline4: TextStyle(
         color: Color(0xFF9BB087),
+        fontSize: 30,
         //     color: Color(0xFF281700),
         //     fontWeight: FontWeight.bold,
       ),
@@ -39,11 +40,14 @@ ThemeData getTheme() {
         //     fontSize: 22,
         //     fontWeight: FontWeight.bold,
       ),
-      //   headline6: TextStyle(
-      //     color: Color(0xFF281700),
-      //     fontSize: 14,
-      //     fontWeight: FontWeight.bold,
-      //   ),
+      headline6: TextStyle(
+        color: Color(0xFF9BB087),
+        fontSize: 24,
+
+        //     color: Color(0xFF281700),
+        //     fontSize: 14,
+        //     fontWeight: FontWeight.bold,
+      ),
     ),
     // visualDensity: VisualDensity.adaptivePlatformDensity,
   );
